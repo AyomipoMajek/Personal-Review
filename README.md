@@ -25,6 +25,7 @@
 👤 **Ayomipo Majek**
 
 - Github: [@AyomipoMajek](https://github.com/AyomipoMajek)
+- LinkedIn: [@ayomipo-majek](https://www.linkedin.com/in/ayomipo-majek-977569185/)
 
 ## 🤝 Contributing
 
